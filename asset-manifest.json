@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ejercicio-3-build/static/css/main.0a58fa8d.chunk.css",
+    "main.js": "/ejercicio-3-build/static/js/main.135db0b0.chunk.js",
+    "main.js.map": "/ejercicio-3-build/static/js/main.135db0b0.chunk.js.map",
+    "runtime-main.js": "/ejercicio-3-build/static/js/runtime-main.b9b932c6.js",
+    "runtime-main.js.map": "/ejercicio-3-build/static/js/runtime-main.b9b932c6.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/ejercicio-3-build/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.ecc8594a.chunk.js": "/ejercicio-3-build/static/js/2.ecc8594a.chunk.js",
+    "static/js/2.ecc8594a.chunk.js.map": "/ejercicio-3-build/static/js/2.ecc8594a.chunk.js.map",
+    "index.html": "/ejercicio-3-build/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/ejercicio-3-build/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.0a58fa8d.chunk.css.map": "/ejercicio-3-build/static/css/main.0a58fa8d.chunk.css.map",
+    "static/js/2.ecc8594a.chunk.js.LICENSE.txt": "/ejercicio-3-build/static/js/2.ecc8594a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9b932c6.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.ecc8594a.chunk.js",
+    "static/css/main.0a58fa8d.chunk.css",
+    "static/js/main.135db0b0.chunk.js"
+  ]
+}
